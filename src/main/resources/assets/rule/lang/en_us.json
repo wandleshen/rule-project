@@ -3,5 +3,14 @@
   "item.rule.le_ingot":"Le Ingot",
   "item.rule.milky_le_ingot":"Milky Le Ingot",
   "item.rule.snow_cheese": "Snow Cheese",
+  "item.rule.milky_le_helmet": "Milky Le Helmet",
+  "item.rule.milky_le_chestplate": "Milky Le Chestplate",
+  "item.rule.milky_le_leggings": "Milky Le Leggings",
+  "item.rule.milky_le_boots": "Milky Le Boots",
+  "item.rule.milky_le_sword": "Milky Le Sword",
+  "item.rule.milky_le_shovel": "Milky Le Shovel",
+  "item.rule.milky_le_pickaxe": "Milky Le Pickaxe",
+  "item.rule.milky_le_axe": "Milky Le Axe",
+  "item.rule.milky_le_hoe": "Milky Le Hoe",
   "itemGroup.rule.rule": "Rule Project"
 }

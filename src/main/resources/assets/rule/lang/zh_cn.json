@@ -3,5 +3,14 @@
   "item.rule.le_ingot": "乐腚",
   "item.rule.milky_le_ingot": "乳乐腚",
   "item.rule.snow_cheese": "雪酪",
+  "item.rule.milky_le_helmet": "乳乐头盔",
+  "item.rule.milky_le_chestplate": "乳乐胸甲",
+  "item.rule.milky_le_leggings": "乳乐护腿",
+  "item.rule.milky_le_boots": "乳乐靴子",
+  "item.rule.milky_le_sword": "乳乐剑",
+  "item.rule.milky_le_shovel": "乳乐锹",
+  "item.rule.milky_le_pickaxe": "乳乐镐",
+  "item.rule.milky_le_axe": "乳乐斧",
+  "item.rule.milky_le_hoe": "乳乐锄",
   "itemGroup.rule.rule": "乳乐计划"
 }
