@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WLW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "rule:snow_cheese"
+    },
+    "L": {
+      "item": "rule:le_ingot"
+    }
+  },
+  "result": {
+    "item": "rule:milky_le_ingot"
+  }
+}

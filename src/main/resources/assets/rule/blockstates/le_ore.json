@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "rule:block/le_ore" }
+  }
+}
