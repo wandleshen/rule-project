@@ -39,12 +39,12 @@ public class RuleMain implements ModInitializer {
             Arrays.asList(
                     CountPlacementModifier.of(20), // number of veins per chunk
                     SquarePlacementModifier.of(),
-                    HeightRangePlacementModifier.uniform(YOffset.getBottom(), YOffset.fixed(20))
+                    HeightRangePlacementModifier.uniform(YOffset.getBottom(), YOffset.fixed(64))
             ));
     @Override
     public void onInitialize() {
         LOGGER.info("My Rule Project!");
-        reg.Registry();
+        reg.registry();
         Registry.register(BuiltinRegistries.CONFIGURED_FEATURE,
                 new Identifier(MODID, "overworld_le_ore"), OVERWORLD_LE_ORE_CONFIGURED);
         Registry.register(BuiltinRegistries.PLACED_FEATURE,
